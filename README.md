@@ -1,17 +1,17 @@
-<h1 align="center">Hola 👋, I'm Gagan Rajput</h1>
+<h1 align="center">Hello 👋, I'm Aritra Ghosh</h1>
 <h3 align="center">Crafting Digital Solutions One Line at a Time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagan47raj&label=Profile%20views&color=0e75b6&style=flat" alt="gagan47raj" /> </p>
 
-- 🔭 I’m currently working on **Integration of ML with Spring boot and Neo4j**
+- 🔭 I’m currently working on **Backend Technologies**
 
-- 🌱 I’m currently learning **Automation Testing**
+- 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gagan47raj](https://github.com/Gagan47raj)
+- 👨‍💻 All of my projects are available at [https://github.com/Arighosh17](https://github.com/Arighosh17)
 
-- 💬 Ask me about **C, C++, Java, Servlet, Hibernate and Spring Boot**
+- 💬 Ask me about **C, C++, Java, JavaScript, NodeJS, MongoDB**
 
-- 📫 How to reach me **gagan20rajput@gmail.com**
+- 📫 How to reach me **Ari.ghosh.cse6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
